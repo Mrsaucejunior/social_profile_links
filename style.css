@@ -75,6 +75,7 @@ h1 {
 .link:hover,
 .link:focus {
     background-color: hsl(75, 94%, 57%);
+    color: black;
     cursor: pointer;
     transform: scale(1.05);
 }
